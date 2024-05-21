@@ -1,0 +1,19 @@
+
+※Tìm hiểu về Git
+	Git là 1 Version Control System.
+	Git là công cụ lưu trữ, quản lý version.
+	Lịch sử: cái gì đã thực hiện
+			ai đã làm
+			khi nào
+			tại sao
+
+※ Nguyên tắc làm việc:
+	- Kho lưu trữ trung tâm: repository
+	- Lấy dữ liệu về local, thực hiện các công việc, cập nhật dữ liệu lên kho.
+	- Cung cấp công cụ giải quyết xung đột
+
+※ Lợi ích:
+	- Hạn chế các rủi ro liên quan đến quản lý source
+	- Giúp người dùng có thể cộng tác với người khác.
+	- Phát triển phiên bản mới mà không ảnh hưởng đến phiên bản cũ.
+	
