@@ -1,0 +1,16 @@
+
+※ Basic terminal command for management files and folder
+	- cd : change directory
+	- dir/ls : show subfolders and files in current folder
+	- clear : clear command on screen
+	- mkdir "folder name" : create new folder (make directory)
+	- touch "file name" : create new file (if file do not exist)
+	- echo : print/output message
+	  echo "text" > "file name" : create file with "text" in content. (overwrite if file exist)
+	  echo "text" >> "file name" : create file with "text" in content. (new line if file exist)
+	- cat "file name" : display file content.
+	- diff file1 file2 : compare different between file1 and file2
+	- rm : remove
+	  rm "filename" : remove file
+	  rm -d "foldername" : remove empty folder
+	  rm -r "foldername" : remove folder has data
